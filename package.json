@@ -1,0 +1,24 @@
+{
+  "name": "node-downloader",
+  "version": "0.0.1",
+  "description": "Download assets from sites using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://danielna@bitbucket.org/danielna/node-downloader.git"
+  },
+  "keywords": [
+    "download",
+    "assets"
+  ],
+  "author": "Daniel Na <daniel.na@gmail.com>",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "d4f67081416ce76e8d04de4d618f508894a76f2f",
+  "dependencies": {
+    "underscore": "~1.6.0"
+  }
+}
